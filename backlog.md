@@ -25,4 +25,5 @@ List all feature suggestions and enhancements here.
 - **Research**: Investigations or experimental ideas that require further study.
 
 ---
-> **Note**: Use this backlog as a living document. Update it regularly to reflect the current status of tasks and ideas.
+> **Note**: Use this README.md as backlog and as a living document. Update it regularly to reflect the current status of tasks and ideas.
+
